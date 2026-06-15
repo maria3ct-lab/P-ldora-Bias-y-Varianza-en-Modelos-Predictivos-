@@ -12,3 +12,5 @@ Varianza (Variance): Mide la variabilidad de las predicciones ante diferentes co
 Error Irreducible: Ruido inherente a los datos e imperfecciones de medición. Representa el límite físico y matemático de precisión que ningún algoritmo puede superar.
 
 El equilibrio que decide tu generalización. Entender la tensión entre sesgo y varianza es la clave para construir modelos que no solo memoricen el pasado, sino que predigan con fiabilidad el futuro.
+
+https://www.canva.com/design/DAHMkIhn2Q4/DGvkv4e3OvbEgF_Q2RPmjg/edit
